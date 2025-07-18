@@ -21,6 +21,7 @@ I'm a passionate front-end developer and tech enthusiast currently diving into f
 - 📋 [CSS Mini Project](https://github.com/HarshalaSuryawanshi29/CSSMiniProject)  
 - 💼 [Octanet Internship Tasks](https://github.com/HarshalaSuryawanshi29/Octanet-Internship)  
 - 💡 [CodeAlpha Internship](https://github.com/HarshalaSuryawanshi29/CodeAlpha-Internship-Tasks)
+- - 🏙️ [LocalBridge](https://github.com/HarshalaSuryawanshi29/localbridge)
 
 ---
 
